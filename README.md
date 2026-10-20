@@ -4,5 +4,6 @@
 - 🔬 研究方向: LLM-based Agents、多模态推理、RAG、embodied agent、Vision-Language Models
 - 🏫 课题组网站: [lab106](http://106lab.com/welcome)
 - 📫 Email: wangshiyun72@gmail.com
+- 📞 Wechat：BoiDrip1102
 
 [![Lab Website](https://img.shields.io/badge/Lab-Website-blue)](http://106lab.com/welcome))
